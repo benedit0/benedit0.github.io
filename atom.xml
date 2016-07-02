@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>轻拍</title>
+  <subtitle>汤姆的部落格</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://qingpat.com/"/>
+  <updated>2016-05-05T04:20:34.000Z</updated>
+  <id>https://qingpat.com/</id>
+  
+  <author>
+    <name>Tom</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="https://qingpat.com/2016/07/hello-world.html"/>
+    <id>https://qingpat.com/2016/07/hello-world.html</id>
+    <published>2016-07-02T07:32:10.467Z</published>
+    <updated>2016-05-05T04:20:34.000Z</updated>
+    
+    <content type="html">&lt;p&gt;Foundation to write!&lt;/p&gt;
+&lt;p&gt;😂😂&lt;/p&gt;
+&lt;p&gt;表情测试&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ooo.0o0.ooo/2015/07/16/3dc4876f3f08201c7c76cb71fa1da439.jpg?300x600&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;图片测试&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Foundation to write!&lt;/p&gt;
+&lt;p&gt;😂😂&lt;/p&gt;
+&lt;p&gt;表情测试&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ooo.0o0.ooo/2015/07/16/3dc4876f3f08201c7c76cb71fa1da439.jpg?300x600
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
