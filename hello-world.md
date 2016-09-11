@@ -2,10 +2,5 @@
 title: Security labels in chrome
 ---
 
-up vote
-5
-down vote
-favorite
-Here is the command I want to be run at startup:
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wyK7YuwUWsU" frameborder="0" allowfullscreen></iframe>
 
