@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://qingpat.com/"/>
-  <updated>2016-09-11T12:09:11.469Z</updated>
+  <updated>2016-09-11T12:39:51.017Z</updated>
   <id>https://qingpat.com/</id>
   
   <author>
@@ -19,15 +19,17 @@
     <title>Security labels in chrome</title>
     <link href="https://qingpat.com/2016/09/hello-world.html"/>
     <id>https://qingpat.com/2016/09/hello-world.html</id>
-    <published>2016-09-11T12:09:11.469Z</published>
-    <updated>2016-09-11T12:09:11.469Z</updated>
+    <published>2016-09-11T12:39:51.017Z</published>
+    <updated>2016-09-11T12:39:51.017Z</updated>
     
-    <content type="html"><![CDATA[<p>up vote<br>5<br>down vote<br>favorite<br>Here is the command I want to be run at startup:</p>
+    <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/wyK7YuwUWsU" frameborder="0" allowfullscreen></iframe>
+
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;up vote&lt;br&gt;5&lt;br&gt;down vote&lt;br&gt;favorite&lt;br&gt;Here is the command I want to be run at startup:&lt;/p&gt;
+      &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/wyK7YuwUWsU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
 
     
     </summary>
