@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://qingpat.com/"/>
-  <updated>2016-09-11T08:02:33.015Z</updated>
+  <updated>2016-09-11T08:05:43.606Z</updated>
   <id>https://qingpat.com/</id>
   
   <author>
@@ -19,15 +19,15 @@
     <title>Security labels in chrome</title>
     <link href="https://qingpat.com/2016/09/hello-world.html"/>
     <id>https://qingpat.com/2016/09/hello-world.html</id>
-    <published>2016-09-11T08:02:33.015Z</published>
-    <updated>2016-09-11T08:02:33.015Z</updated>
+    <published>2016-09-11T08:05:43.606Z</published>
+    <updated>2016-09-11T08:05:43.606Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World!"></a>Hello World!</h3><p>Begin to Write.</p>
+    <content type="html"><![CDATA[<p>up vote<br>5<br>down vote<br>favorite<br>Here is the command I want to be run at startup:</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;Hello-World&quot;&gt;&lt;a href=&quot;#Hello-World&quot; class=&quot;headerlink&quot; title=&quot;Hello World!&quot;&gt;&lt;/a&gt;Hello World!&lt;/h3&gt;&lt;p&gt;Begin to Write.&lt;/p&gt;
+      &lt;p&gt;up vote&lt;br&gt;5&lt;br&gt;down vote&lt;br&gt;favorite&lt;br&gt;Here is the command I want to be run at startup:&lt;/p&gt;
 
     
     </summary>
