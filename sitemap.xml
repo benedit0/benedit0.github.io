@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qingpat.com/2016/09/hello-world.html</loc>
+    
+    <lastmod>2016-09-11T07:35:14.062Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://qingpat.com/googlee2ba5e71bb777fa5.html</loc>
     
     <lastmod>2016-07-03T06:51:33.000Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://qingpat.com/guestbook/index.html</loc>
     
     <lastmod>2016-07-02T09:02:50.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qingpat.com/2016/09/hello-world.html</loc>
-    
-    <lastmod>2016-07-02T08:57:55.000Z</lastmod>
     
   </url>
   
